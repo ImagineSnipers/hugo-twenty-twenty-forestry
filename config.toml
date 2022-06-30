@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = "https://github.com/NormandErwan/Blogpaper"
+theme = "https://github.com/HelloRusk/HugoTeX"
 title = "Hugo Blog"
 [markup.goldmark.renderer]
 unsafe = true
