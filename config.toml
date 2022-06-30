@@ -6,7 +6,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = "https://github.com/dirtyf/hylia"
+theme = "git@github.com:dirtyf/hylia.git"
 title = "Hugo Blog"
 [markup.goldmark.renderer]
 unsafe = true
